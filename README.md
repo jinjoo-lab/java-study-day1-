@@ -1,3 +1,3 @@
 # java-study-day1
-alphabet changer
-judge alphabet
+alphabet changer,
+ judge alphabet
